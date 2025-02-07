@@ -5,10 +5,13 @@ The workflow to detect fish disease
 ![Workflow](image/workflow.png)
 
 The input image need to resize and normalize before performing training and evaluation
-![Resize and normalization](image/resize_n_normal.png)
+<br>
+<img src="image/resize_n_normal.png" width="500">
 
 The training set be augmented to increase number of image in set
-![Data augmentation](image/augmentation.png)
+<br>
+<img src="image/augmentation.png" width="500">
 
 The illustration of  layers in the MobileNet
-![Layer in MobileNet](image/mobilenet.png)
+<br>
+<img src="image/mobilenet.png" width="500">
